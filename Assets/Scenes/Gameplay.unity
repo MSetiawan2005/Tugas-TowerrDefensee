@@ -2330,7 +2330,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _maxLives: 3
-  _totalEnemy: 10
+  _totalEnemy: 14
   _panel: {fileID: 172519970}
   _statusInfo: {fileID: 1602488149}
   _livesInfo: {fileID: 1756014266}
