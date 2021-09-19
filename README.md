@@ -24,7 +24,8 @@ Don't forget to ⭐️ this project
 
 ## Link Build Project
 
-Link :
+- Project releases :
+  - Left click  https://github.com/MSetiawan2005/Tugas-TowerrDefensee/releases/tag/v0.1.0
 
 ## Updates
 
